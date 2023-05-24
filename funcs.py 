@@ -1,0 +1,2 @@
+def sum_num(x, y):
+    print(x + y)
